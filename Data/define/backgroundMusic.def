@@ -1,0 +1,32 @@
+/*****************************************************************************/
+/*  Author        : Дракончик												 */
+/*  Machine       : Sony PlayStation 2										 */
+/*  OS		  	  : OSDSYS													 */
+/*  Language      : GNU C                                                    */
+/*                                                                           */
+/*  File Contents : ALL INGAME BACKGROUND MUSIC FILES LISTED HERE FOR GAME   */
+/*  File Attribute: DEFINED	                                              	 */
+/*  File Name     : backgroundMusic.def                                      */
+/*                                                                           */
+/*****************************************************************************/
+
+
+#define BGM001 "/Audio/BGM/StarryNight" // 
+#define BGM002 "/Audio/BGM/Undersea" // Game Theme
+#define BGM003 "/Audio/BGM/Everlasting" // World Map 1
+#define BGM004 "/Audio/BGM/TheLastEncounter" 	// Battle 1 Copyright/Attribution Notice: https://opengameart.org/content/rpg-battle-theme-the-last-encounter-0
+#define BGM005 "/Audio/BGM/music" // Battle 2
+#define BGM006 "/Audio/BGM/music" // Battle 3
+#define BGM007 "/Audio/BGM/CleytonRXBattleRPGTheme" // Boss 1 Copyright/Attribution Notice: https://opengameart.org/content/boss-battle-theme
+#define BGM008 "/Audio/BGM/BattleWOLF" // Boss 2
+#define BGM009 "/Audio/BGM/music.wav" // Boss 3
+#define BGM010 "/Audio/BGM/music.wav" // Dungeon 1
+#define BGM011 "/Audio/BGM/EverlastingSnow" // Dungeon 2 Snow Queen
+#define BGM012 "/Audio/BGM/music.wav" // ???
+#define BGM013 "/Audio/BGM/music.wav" // ???
+#define BGM014 "/Audio/BGM/music.wav" // ???
+#define BGM015 "/Audio/BGM/music.wav" // ???
+#define BGM016 "/Audio/BGM/music.wav" // ???
+#define BGM017 "/Audio/BGM/music.wav" // ???
+#define BGM018 "/Audio/BGM/music.wav" // ???
+#define BGM019 "/Audio/BGM/music.wav" // ???

@@ -1,0 +1,21 @@
+/*****************************************************************************/
+/*  Author        : Дракончик												 */
+/*  Machine       : Sony PlayStation 2										 */
+/*  OS		  	  : OSDSYS													 */
+/*  Language      : GNU C                                                    */
+/*                                                                           */
+/*  File Contents : GAME STATE MUSIC AUDIO AND VARIABLE DEFINED VALUES       */
+/*  File Attribute: DEFINED	                                              	 */
+/*  File Name     : gameState.def                                            */
+/*                                                                           */
+/*****************************************************************************/
+
+
+#define TITLEIMAGEPATH "/Graphics/Images/Title.png"
+
+
+#define GIRL "/Graphics/Characters/nekomini.png"
+#define CAT "/Graphics/Characters/Cat.png"
+#define SPUTNIK "/Graphics/Characters/Gaton.png"
+#define BOX "/Graphics/Images/Box.png"
+#define BOXSEL "/Graphics/Images/BoxSelect.png"

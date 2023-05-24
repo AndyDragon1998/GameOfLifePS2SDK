@@ -1,0 +1,15 @@
+/*****************************************************************************/
+/*  Автор         		: Дракончик				                             */
+/*  Приставка     		: Sony PlayStation 2					             */
+/*  ОС			  		: OSDSYS											 */
+/*  Язык	      		: GNU C                                              */
+/*                                                                           */
+/*  Содержимое файла	: Дефиниция контантов NPC.c файла 		             */
+/*  Атрибут файла		: DEFINED                                            */
+/*  Имя файла     		: NPC.def 		                                     */
+/*                                                                           */
+/*****************************************************************************/
+
+#define NPC0 "/Graphics/Characters/Characters1.png"
+#define NPC1 "/Graphics/Characters/Characters1.png"
+#define NPC2 "/Graphics/Characters/Characters1.png"
